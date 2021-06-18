@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(240, 140, 240);
+    background: url('https://iddcdn.azureedge.net/516022.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(97, 160, 95);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p{
+    padding-left: 50px;
+    text-align: center;
+}
+
+.photo {
+    width: 400px;
+
+}
